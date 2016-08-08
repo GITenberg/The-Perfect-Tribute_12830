@@ -1,0 +1,28 @@
+_repo: The-Perfect-Tribute_12830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865. Gettysburg address'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Fiction'
+- GITenberg
+title: The Perfect Tribute
+url: http://www.gutenberg.org/ebooks/12830
